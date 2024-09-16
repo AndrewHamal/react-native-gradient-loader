@@ -1,6 +1,6 @@
 {
   "name": "react-native-gradient-loader",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Amazing looking slider loader for react native",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -155,5 +155,9 @@
         }
       ]
     ]
+  },
+  "dependencies": {
+    "lottie-react": "^2.4.0",
+    "lottie-react-native": "^7.0.0"
   }
 }
